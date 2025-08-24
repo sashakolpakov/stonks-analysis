@@ -1,0 +1,9 @@
+README.md
+setup.py
+stonks_analysis/__init__.py
+stonks_analysis/utils.py
+stonks_analysis.egg-info/PKG-INFO
+stonks_analysis.egg-info/SOURCES.txt
+stonks_analysis.egg-info/dependency_links.txt
+stonks_analysis.egg-info/requires.txt
+stonks_analysis.egg-info/top_level.txt
