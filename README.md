@@ -11,6 +11,6 @@ The package automatically installs all required dependencies:
 - yfinance - for downloading financial data
 - pandas, numpy - data manipulation
 - matplotlib - plotting
-- scikit-learn - machine learning utilities
-- umap-learn - UMAP dimensionality reduction
-- dire-jax - DiRE dimensionality reduction
+- scikit-learn - PCA, tSNE
+- umap-learn - [UMAP](https://github.com/lmcinnes/umap) dimensionality reduction
+- dire-jax - [DiRE](https://github.com/sashakolpakov/dire-jax) dimensionality reduction
