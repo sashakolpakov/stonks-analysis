@@ -1,6 +1,0 @@
-yfinance
-umap-learn
-scikit-learn
-matplotlib
-pandas
-dire-jax
