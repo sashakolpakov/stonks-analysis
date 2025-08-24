@@ -1,6 +1,6 @@
 # Stonks Analysis
 
-This project analyzes financial data using various dimensionality reduction techniques (UMAP, tSNE, PCA, and DiRE) to visualize relationships between different asset classes (stocks, crypto, index). We also compare different embedding methods performance on a variety of factors such as proper asset clustering and class identification. This can be useful in for identifying possible similarities between assest and for trading strategies carrying over. 
+This project analyzes financial data using various dimensionality reduction techniques (UMAP, tSNE, PCA, and DiRE) to visualize relationships between different asset classes (stocks, crypto, index). We also compare different embedding methods performance on a variety of factors such as proper asset clustering and class identification. This can be useful for identifying possible similarities between assets and for trading strategies carry-over. 
 
 ## Setup
 
