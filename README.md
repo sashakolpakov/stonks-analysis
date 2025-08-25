@@ -14,3 +14,4 @@ The package automatically installs all required dependencies:
 - scikit-learn - PCA, tSNE
 - umap-learn - [UMAP](https://github.com/lmcinnes/umap) dimensionality reduction
 - dire-jax - [DiRE](https://github.com/sashakolpakov/dire-jax) dimensionality reduction
+- hdbscan - [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan) clustering algorithm
