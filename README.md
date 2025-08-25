@@ -1,15 +1,16 @@
 # Stonks Analysis
 
-This project analyzes stock data using various dimensionality reduction techniques to visualize relationships between different stocks.
+This project analyzes financial data using various dimensionality reduction techniques (UMAP, tSNE, PCA, and DiRE) to visualize relationships between different asset classes (stocks, crypto, index). We also compare different embedding methods performance on a variety of factors such as proper asset clustering and class identification. This can be useful for identifying possible similarities between assets and for trading strategies carry-over. 
 
-## Setup
+## Jupyter Notebook
+Open and run `stonks_analysis.ipynb` to see the complete analysis. You can modify the tickers and date range in the notebook to analyze different assets or time periods.
 
-1. Clone the repository.
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
+## Dependencies
 
-## Usage
-
-Run the `stonks_analysis.ipynb` notebook to see the analysis. You can modify the tickers and the date range in the notebook to analyze different stocks or time periods.
+The package automatically installs all required dependencies:
+- yfinance - for downloading financial data
+- pandas, numpy - data manipulation
+- matplotlib - plotting
+- scikit-learn - PCA, tSNE
+- umap-learn - [UMAP](https://github.com/lmcinnes/umap) dimensionality reduction
+- dire-jax - [DiRE](https://github.com/sashakolpakov/dire-jax) dimensionality reduction
