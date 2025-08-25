@@ -4,3 +4,4 @@ scikit-learn
 matplotlib
 pandas
 dire-jax
+hdbscan
